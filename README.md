@@ -4,12 +4,11 @@ Feel free to explore my repositories or leave some advice! ✨
 
 ---
 
-🤖 **My Coding Reality:**
-* 🐛 Writing code in 10 minutes, spending 2 hours debugging.
-* 🔍 Currently a detective in a crime movie where *I* wrote the code, but *I* have no idea who caused the error.
-* ☕ Transforming caffeine into questionable lines of code.
+### 😂 My Coding Reality: (Shinchan Style)
 
-🚀 *Open to any feedback, pull requests, or mental support!*
+*   🐛 Writing code in 10 minutes, spending 2 hours debugging. (My stomach is as empty as my console output!) <img src="https://i.pinimg.com/originals/af/54/60/af54602f90b12e3e9d80d1e342296e62.png" width="20">
+*   🔍 Currently a detective in a crime movie where *I* wrote the code, but *I* have no idea who caused the error. (Maybe Action-Mask did it?) <img src="https://i.pinimg.com/originals/60/7b/7b/607b7b1341d3312c5b36427d1a29367c.png" width="20">
+*   ☕ Transforming caffeine into questionable lines of code. (Wait, was that a bug or a feature? Uh-oh.) <img src="https://i.pinimg.com/originals/61/88/54/6188544b6c361406f52a87c127926e6f.png" width="20">
 
 ---
 
