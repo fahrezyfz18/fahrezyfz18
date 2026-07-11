@@ -10,11 +10,3 @@ Feel free to explore my repositories or leave some advice! ✨
 * ☕ Transforming caffeine into questionable lines of code.
 
 🚀 *Open to any feedback, pull requests, or mental support!*
-
----
-
-### 📊 My GitHub Stats
-
-![Fahrezy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahrezyfz18&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezyfz18&layout=compact&theme=radical)
