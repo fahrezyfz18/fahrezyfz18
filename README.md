@@ -22,5 +22,5 @@ Feel free to explore my repositories or leave some advice! ✨
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JleW94bndvM3R4d251eG1zNnpxcm12ZHd0ODN5NTh4M3R5NXk4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif](https://pin.it/5sfNoj8e7)](http://v1.pinimg.com/videos/mc/720p/49/96/56/4996560a2264a2387fa051d299af4ac2.mp4)" width="320" />
+  <img src="https://i.pinimg.com/originals/87/8c/53/878c5376b10b2f842a06fae2d386c463.gif" width="280" />
 </p>
